@@ -1,0 +1,507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Hof Hesselmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5777384,
+          51.9311323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5707739,
+          51.9651317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Jugendinformations- und bildungszentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6314763,
+          51.9536308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Ev. Pfarrheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6223659,
+          51.9434732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Pfarrheim Dreifaltigkeit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6139207,
+          51.9758164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Paul-Gerhardt-Haus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6355759,
+          51.9609867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Schießzentrum ABC Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6062211,
+          51.9752943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Pfarrzentrum Heilig Kreuz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6272411,
+          51.9699188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Bahnhof Wolbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264443,
+          51.9133475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Haus der Familie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6188279,
+          51.9609127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Bennohaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6531337,
+          51.9537415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Albatros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5230397,
+          51.9242138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Centro Español Hiltrup e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6467898,
+          51.8961345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Pfarrheim St. Gottfried"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6134601,
+          51.9315412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Begegnungszentrum 37 Grad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6266073,
+          51.9025684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Pfarrheim und Sozialbüro Sankt Petronilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6980915,
+          51.988561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Gemeinschaftsraum St. Aloysius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5660848,
+          52.0228918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Lettisches Centrum Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6157,
+          51.990842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Stadtteilhaus Johannes-Busch-Haus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6655612,
+          51.9582825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Fachwerk Gievenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574153,
+          51.9653203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Hackschnitzelparadies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6487731,
+          51.9431267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Bonni Jugendtreff"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6273777,
+            51.9650591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Infopunkt Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6432972,
+            51.903886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "VCP Münster-Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6502861,
+            51.9073238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Evangelisches Jugendzentrum Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6500728,
+            51.9072938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "HilDe – Die Nähwerkstatt"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6404191,
+            51.9053648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Kulturquartier Münster"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6684087,
+            51.9891418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Pfarrzentrum St. Clemens"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6406908,
+            51.9044225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Altes Backhaus e.V."
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6259692,
+            51.9708603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Zukunftswerkstatt"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6127744,
+            51.9699709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Begegnungsstätte „Emmerbach-Treff“"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.674372,
+            51.9042325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Begegnungszentrum Meerwiese"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6511353,
+            51.9884373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Begegnungszentrum Kinderhaus"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.5944361,
+            51.9990268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "community_centre",
+        "name": "Bewohnertreff im Südviertel e.V."
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6272033,
+            51.9441667
+          ]
+        ]
+      }
+    }
+  ]
+}

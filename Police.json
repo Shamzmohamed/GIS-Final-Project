@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polizeiwache Innenstadt"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6308682,
+            51.9622255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserschutzpolizei"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6645709,
+            51.9702425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bundespolizei"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6352814,
+            51.9591615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polizeiwache Patronatsstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6381186,
+          51.9045399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autobahnpolizei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624225,
+          51.9379776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polizeiwache Moltkestraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623552,
+          51.9559192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasser- und Schifffahrtspolizei Werkstatt Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.661891,
+          51.9727125
+        ]
+      }
+    }
+  ]
+}

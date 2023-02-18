@@ -1,0 +1,1509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Gievenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57188,
+          51.9598815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5939827,
+          51.9595252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster – Löschzug Altstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109903,
+          51.975438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6506608,
+          51.9007657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 1 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109012,
+          51.9750244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6455616,
+          51.9463256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehrhaus Wolbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7338994,
+          51.917009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Geist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6243935,
+          51.9342206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Mecklenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5824516,
+          51.9280836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Albachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5208643,
+          51.9246239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Nienberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5563512,
+          51.9962098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "FF Münster - Löschzug 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560556,
+          52.0230679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr - Löschzug Gremmendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6672359,
+          51.9324324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 3 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6258011,
+          51.8944828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Amelsbüren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6084826,
+          51.8816158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Loevelingloh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5764606,
+          51.8934938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Sprakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6116244,
+          52.0412666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Angelmodde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7006052,
+          51.9207778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster, LZ Handorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7129057,
+          51.9933504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Roxel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528392,
+          51.9534932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster - Löschzug Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.638335,
+            51.906341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Kinderhaus"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6050295,
+            51.9974534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Rettungswache Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6660645,
+            51.9886661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6661798,
+            51.9889733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Gelmer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6775148,
+            52.0305077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug St. Mauritz/Werse-Laer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6809105,
+            51.9482349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Gievenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57188,
+          51.9598815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5939827,
+          51.9595252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster – Löschzug Altstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109903,
+          51.975438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6506608,
+          51.9007657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 1 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109012,
+          51.9750244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6455616,
+          51.9463256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehrhaus Wolbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7338994,
+          51.917009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Geist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6243935,
+          51.9342206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Mecklenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5824516,
+          51.9280836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Albachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5208643,
+          51.9246239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Nienberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5563512,
+          51.9962098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "FF Münster - Löschzug 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560556,
+          52.0230679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr - Löschzug Gremmendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6672359,
+          51.9324324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 3 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6258011,
+          51.8944828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Amelsbüren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6084826,
+          51.8816158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Loevelingloh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5764606,
+          51.8934938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Sprakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6116244,
+          52.0412666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Angelmodde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7006052,
+          51.9207778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster, LZ Handorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7129057,
+          51.9933504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Roxel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528392,
+          51.9534932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster - Löschzug Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.638335,
+            51.906341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Kinderhaus"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6050295,
+            51.9974534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Rettungswache Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6660645,
+            51.9886661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6661798,
+            51.9889733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Gelmer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6775148,
+            52.0305077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug St. Mauritz/Werse-Laer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6809105,
+            51.9482349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Gievenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57188,
+          51.9598815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5939827,
+          51.9595252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster – Löschzug Altstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109903,
+          51.975438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6506608,
+          51.9007657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 1 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109012,
+          51.9750244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6455616,
+          51.9463256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehrhaus Wolbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7338994,
+          51.917009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Geist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6243935,
+          51.9342206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Mecklenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5824516,
+          51.9280836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Albachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5208643,
+          51.9246239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Nienberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5563512,
+          51.9962098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "FF Münster - Löschzug 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560556,
+          52.0230679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr - Löschzug Gremmendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6672359,
+          51.9324324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 3 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6258011,
+          51.8944828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Amelsbüren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6084826,
+          51.8816158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Loevelingloh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5764606,
+          51.8934938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Sprakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6116244,
+          52.0412666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Angelmodde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7006052,
+          51.9207778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster, LZ Handorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7129057,
+          51.9933504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Roxel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528392,
+          51.9534932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster - Löschzug Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.638335,
+            51.906341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Kinderhaus"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6050295,
+            51.9974534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Rettungswache Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6660645,
+            51.9886661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6661798,
+            51.9889733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Gelmer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6775148,
+            52.0305077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug St. Mauritz/Werse-Laer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6809105,
+            51.9482349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Gievenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57188,
+          51.9598815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5939827,
+          51.9595252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster – Löschzug Altstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109903,
+          51.975438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Werkfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6506608,
+          51.9007657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 1 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6109012,
+          51.9750244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6455616,
+          51.9463256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehrhaus Wolbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7338994,
+          51.917009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Geist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6243935,
+          51.9342206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Mecklenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5824516,
+          51.9280836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Albachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5208643,
+          51.9246239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Nienberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5563512,
+          51.9962098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "FF Münster - Löschzug 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560556,
+          52.0230679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr - Löschzug Gremmendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6672359,
+          51.9324324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuer- und Rettungswache 3 Münster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6258011,
+          51.8944828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Amelsbüren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6084826,
+          51.8816158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Loevelingloh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5764606,
+          51.8934938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Sprakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6116244,
+          52.0412666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Angelmodde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7006052,
+          51.9207778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr Münster, LZ Handorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7129057,
+          51.9933504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug Roxel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528392,
+          51.9534932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster - Löschzug Hiltrup"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.638335,
+            51.906341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Freiwillige Feuerwehr LZ Kinderhaus"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6050295,
+            51.9974534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Rettungswache Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6660645,
+            51.9886661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Kemper"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6661798,
+            51.9889733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Feuerwehr Münster Löschzug Gelmer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6775148,
+            52.0305077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fclass": "fire_station",
+        "name": "Löschzug St. Mauritz/Werse-Laer"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.6809105,
+            51.9482349
+          ]
+        ]
+      }
+    }
+  ]
+}
