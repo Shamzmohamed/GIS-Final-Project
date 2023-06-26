@@ -1,3 +1,5 @@
 # Geoinformation in Society
-Flood Dashboard
+Flood Dashboard : 
 Natural hazards vary in landscape, time and magnitude. Under different drivers and aspects triggered the hazards more they may lead to loss to lives and damage to infrastructures and properties. Among the most devastating natural hazards caused by storms, heavy rainfall, river overflow and flash floods. However, these hazards may worsen due to the several drivers like elevation, population density, unsafe infrastructures, and less in rescue teams and health facilities. Flood events have become more prevalent and destructive in recent years in Germany. In 2014, Münster city faced a flash flood that caused loss of lives and damage to infrastructure. Thus, this project aims to provide a proper channel like a dashboard / online web information tool to provide information to the people in **Münster, Germany**, about the flood risk probability, flood depths, potentially affected buildings, flood hazards scenario and water depth information. It also provides facilities of interest like fire stations, hospitals, schools, libraries, and hotels.
+
+Website / Dashboard - https://flood-gis.vercel.app/
